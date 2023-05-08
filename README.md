@@ -1,1 +1,3 @@
 This project is a modification of the LIGO project. I took the existing LIGO notebook, created a library for the ligo.py file called ligotools to run their code as a package, created an environment.yml file to track dependencies for running the code (with a functioning kernel), and uploaded the completed work to Binder for interactive notebook capabilities.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2FUCB-stat-159-s23%2Fhw02-Jiroum24.git/HEAD)
